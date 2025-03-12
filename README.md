@@ -101,9 +101,4 @@ delay(5000);  // Reduce to collect data every 5 seconds
 
 ---
 
-## 🚀 Next Steps  
-🔹 **Would you like to store sensor data in a cloud database?**  
-🔹 **Need to add more sensors (CO2, dust, VOCs)?**  
-🔹 **Want real-time graph visualization of the collected data?**  
 
-Let me know how to improve it! 📡🔥  
